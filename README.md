@@ -5,7 +5,7 @@ A lightweight, zero-dependency .NET library that brings seamless automatic updat
 ## Key Features
 
 - **Zero Third-Party Dependencies**: Built exclusively on standard .NET BCL (System.Net.Http, System.Text.Json, System.IO.Compression, System.Security.Cryptography).
-- **SemVer 2.0 Compliant**: Full semantic version parsing and comparison (supporting 1.2.3, 1.2.3-beta.1, build metadata, and version tags).
+- **SemVer 2.0 Compliant**: Full semantic version parsing and comparison (supporting v1.2.3, 1.2.3-beta.1, build metadata, and version tags).
 - **Multi-Framework Support**: Targets .NET 8, .NET 9, and .NET 10.
 - **Smart Asset Matching**: Automatically resolves the correct release asset for current platform & architecture (win-x64, win-arm64, win-x86, standalone, or framework-dependent).
 - **Integrity Verification**: Automatic SHA256 verification against checksums.txt, companion .sha256 files, or release notes.
