@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net10.0;net9.0;net8.0</TargetFrameworks>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <RootNamespace>GitHubAutoUpdater</RootNamespace>
+    <AssemblyName>GitHubAutoUpdater</AssemblyName>
+    <Version>1.0.0</Version>
+    <Authors>FunToHard</Authors>
+    <Description>Lightweight, zero-dependency .NET auto-updater library for applications distributed via GitHub Releases.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>

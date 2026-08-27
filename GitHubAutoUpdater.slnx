@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GitHubAutoUpdater/GitHubAutoUpdater.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GitHubAutoUpdater.Tests/GitHubAutoUpdater.Tests.csproj" />
+  </Folder>
+</Solution>
